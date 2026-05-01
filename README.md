@@ -91,12 +91,4 @@ Feel free to fork this repository and contribute by submitting a pull request.
 
 This project is open-source and available under the MIT License.
 
----
-
-## 👨‍💻 Author
-
-**Danish**
-
----
-
 ⭐ If you like this project, give it a star on GitHub!
